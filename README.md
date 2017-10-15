@@ -1,0 +1,2 @@
+# sempit
+safelink.js
